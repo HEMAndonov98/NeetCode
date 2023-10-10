@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestRepeatingCharacterReplacement", "LongestRepeatingCharacterReplacement\LongestRepeatingCharacterReplacement.csproj", "{1149B502-1517-4746-A65F-916C9573E3AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "76.MinimumWindowSubstring", "76.MinimumWindowSubstring\76.MinimumWindowSubstring.csproj", "{2B48D75E-B7C0-486C-934F-03EC255E608D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{1149B502-1517-4746-A65F-916C9573E3AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1149B502-1517-4746-A65F-916C9573E3AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1149B502-1517-4746-A65F-916C9573E3AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B48D75E-B7C0-486C-934F-03EC255E608D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B48D75E-B7C0-486C-934F-03EC255E608D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B48D75E-B7C0-486C-934F-03EC255E608D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B48D75E-B7C0-486C-934F-03EC255E608D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
