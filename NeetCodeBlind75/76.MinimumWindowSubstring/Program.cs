@@ -8,7 +8,7 @@ public class Solution {
     {
         int l = 0;
         char[] sArray = s.ToCharArray();
-        char[] result = new char[1];
+        int resultStart = 0;
         int resultLen = int.MaxValue;
 
         var window = new Dictionary<char, int>();
@@ -39,8 +39,7 @@ public class Solution {
                 if (r - l + 1 < resultLen)
                 {
                     resultLen = r - l + 1;
-                    result = new char[resultLen];
-                    Array.Copy(sArray, l, result, 0, resultLen);
+                    resultStart = l;
                 }
                 //Pop first element from map
                 window[s[l]]--;
@@ -55,7 +54,7 @@ public class Solution {
 
         if (resultLen != int.MaxValue)
         {
-            return new string(result);
+            return s.Substring(resultStart, resultLen);
         }
         else
         {
