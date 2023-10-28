@@ -10,6 +10,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Stack", "Stack", "{41A39865
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidParentheses", "ValidParentheses\ValidParentheses.csproj", "{A6211C0A-6451-4B0D-97A1-C739F292CB2F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Binary Search", "Binary Search", "{315432B3-1DB3-4C29-9D72-7A14EC43CFCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMinimumInRotatedSortedArray", "FindMinimumInRotatedSortedArray\FindMinimumInRotatedSortedArray.csproj", "{3A77D268-9866-4CDD-AA89-6AC79586D5F0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -28,10 +32,15 @@ Global
 		{A6211C0A-6451-4B0D-97A1-C739F292CB2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6211C0A-6451-4B0D-97A1-C739F292CB2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6211C0A-6451-4B0D-97A1-C739F292CB2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A77D268-9866-4CDD-AA89-6AC79586D5F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A77D268-9866-4CDD-AA89-6AC79586D5F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A77D268-9866-4CDD-AA89-6AC79586D5F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A77D268-9866-4CDD-AA89-6AC79586D5F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{2B48D75E-B7C0-486C-934F-03EC255E608D} = {920918BD-4489-41E3-9488-19ED7CF41B92}
 		{1149B502-1517-4746-A65F-916C9573E3AF} = {920918BD-4489-41E3-9488-19ED7CF41B92}
 		{A6211C0A-6451-4B0D-97A1-C739F292CB2F} = {41A39865-C370-4CC1-B1AB-1711354DA07E}
+		{3A77D268-9866-4CDD-AA89-6AC79586D5F0} = {315432B3-1DB3-4C29-9D72-7A14EC43CFCD}
 	EndGlobalSection
 EndGlobal
