@@ -7,6 +7,7 @@
     <projectFile>FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.csproj</projectFile>
     <projectFile>LongestRepeatingCharacterReplacement/LongestRepeatingCharacterReplacement.csproj</projectFile>
     <projectFile>MinStack/MinStack.csproj</projectFile>
+    <projectFile>SearchInRotatedSortedArray/SearchInRotatedSortedArray.csproj</projectFile>
     <projectFile>ValidParentheses/ValidParentheses.csproj</projectFile>
   </component>
   <component name="AutoImportSettings">
@@ -14,9 +15,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eec0a580-bd47-471c-8003-030d09332216" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/33.SearchInRotatedSortedArray/33.SearchInRotatedSortedArray.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/33.SearchInRotatedSortedArray/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.NeetCodeBlind75/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.NeetCodeBlind75/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SearchInRotatedSortedArray/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SearchInRotatedSortedArray/SearchInRotatedSortedArray.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.NeetCodeBlind75/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.NeetCodeBlind75/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NeetCodeBlind75.sln" beforeDir="false" afterPath="$PROJECT_DIR$/NeetCodeBlind75.sln" afterDir="false" />
     </list>
@@ -27,6 +27,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;HEMAndonov98&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="0c228535-8867-44b3-81cb-ec125973fc98" />
+        <option name="url" value="https://github.com/HEMAndonov98/NeetCode.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/cabc7d99336f3be8da98cc86b60ab558948b559727781a9c14417c32d84fea/String.Manipulation.cs" root0="SKIP_HIGHLIGHTING" />
@@ -66,7 +80,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected=".NET Project.33.SearchInRotatedSortedArray">
+  <component name="RunManager" selected=".NET Project.SearchInRotatedSortedArray">
     <configuration name="167.TwoSum2.InputArraySorted" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -175,6 +189,24 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="SearchInRotatedSortedArray" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SearchInRotatedSortedArray/SearchInRotatedSortedArray.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <configuration name="ValidParentheses" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -213,7 +245,8 @@
       <workItem from="1698501016529" duration="2080000" />
       <workItem from="1700090254582" duration="7628000" />
       <workItem from="1700493676341" duration="1355000" />
-      <workItem from="1700931817166" duration="2395000" />
+      <workItem from="1700931817166" duration="2577000" />
+      <workItem from="1703088571857" duration="4707000" />
     </task>
     <task id="LOCAL-00001" summary="C# Code Git Ignore">
       <option name="closed" value="true" />
@@ -287,7 +320,31 @@
       <option name="project" value="LOCAL" />
       <updated>1700494706217</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Problem 33 Beats 58.38% of people">
+      <option name="closed" value="true" />
+      <created>1700934257874</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1700934257874</updated>
+    </task>
+    <task id="LOCAL-00011" summary="vcs">
+      <option name="closed" value="true" />
+      <created>1700934339931</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1700934339931</updated>
+    </task>
+    <task id="LOCAL-00012" summary="workspace.xml">
+      <option name="closed" value="true" />
+      <created>1700934351951</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1700934351951</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -332,13 +389,40 @@
     <MESSAGE value="Finished Problem 155" />
     <MESSAGE value="Implemented Stack from scratch O(1)" />
     <MESSAGE value="TwoSumTwoWithSortedArrayEasy" />
-    <option name="LAST_COMMIT_MESSAGE" value="TwoSumTwoWithSortedArrayEasy" />
+    <MESSAGE value="Problem 33 Beats 58.38% of people" />
+    <MESSAGE value="vcs" />
+    <MESSAGE value="workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace.xml" />
   </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/SearchInRotatedSortedArray/Program.cs</url>
+          <line>54</line>
+          <properties documentPath="$PROJECT_DIR$/SearchInRotatedSortedArray/Program.cs" initialLine="49" containingFunctionPresentation="Method 'BinarySearch'">
+            <startOffsets>
+              <option value="1907" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1908" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
     <pin-to-top-manager>
       <pinned-members>
         <PinnedItemInfo parentTag="Frame#Solution.MinWindow" memberName="sb" />
       </pinned-members>
     </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="DotNetProject">
+        <watch expression="r" />
+        <watch expression="l" />
+        <watch expression="m" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
