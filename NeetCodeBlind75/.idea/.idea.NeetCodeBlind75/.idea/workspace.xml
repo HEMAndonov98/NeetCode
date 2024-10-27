@@ -4,6 +4,7 @@
     <projectFile>167.TwoSum2.InputArraySorted/167.TwoSum2.InputArraySorted.csproj</projectFile>
     <projectFile>33.SearchInRotatedSortedArray/33.SearchInRotatedSortedArray.csproj</projectFile>
     <projectFile>76.MinimumWindowSubstring/76.MinimumWindowSubstring.csproj</projectFile>
+    <projectFile>ConsoleApp1/ConsoleApp1.csproj</projectFile>
     <projectFile>FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.csproj</projectFile>
     <projectFile>LongestRepeatingCharacterReplacement/LongestRepeatingCharacterReplacement.csproj</projectFile>
     <projectFile>MinStack/MinStack.csproj</projectFile>
@@ -16,8 +17,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eec0a580-bd47-471c-8003-030d09332216" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ReverseLinkedList/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReverseLinkedList/ReverseLinkedList.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Valid_Sudoku/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Valid_Sudoku/Valid_Sudoku.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.NeetCodeBlind75/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.NeetCodeBlind75/.idea/projectSettingsUpdater.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.NeetCodeBlind75/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.NeetCodeBlind75/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NeetCodeBlind75.sln" beforeDir="false" afterPath="$PROJECT_DIR$/NeetCodeBlind75.sln" afterDir="false" />
     </list>
@@ -25,6 +27,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DpaMonitoringSettings">
+    <option name="autoShow" value="false" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -35,17 +40,15 @@
     &quot;assignee&quot;: &quot;HEMAndonov98&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="0c228535-8867-44b3-81cb-ec125973fc98" />
-        <option name="url" value="https://github.com/HEMAndonov98/NeetCode.git" />
-      </UrlAndAccount>
-    </option>
-  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/HEMAndonov98/NeetCode.git&quot;,
+    &quot;accountId&quot;: &quot;0c228535-8867-44b3-81cb-ec125973fc98&quot;
+  }
+}</component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/cabc7d99336f3be8da98cc86b60ab558948b559727781a9c14417c32d84fea/String.Manipulation.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Volumes/Extreme SSD/NeetCode/NeetCodeBlind75/76.MinimumWindowSubstring/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/c6718098e0f145e793335596db05b23ab58200/3f/3ebb4680/ThrowHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Valid_Sudoku/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
@@ -59,31 +62,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Project.ReverseLinkedList.executor": "Run",
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "vue.rearranger.settings.migration": "true"
-  },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "/Users/hristoandonov/Library/Application Support/JetBrains/Rider2023.3/resharper-host/DecompilerCache",
-      "/Users/hristoandonov/Library/Application Support/JetBrains/Rider2023.3/resharper-host/SourcesCache",
-      "/Users/hristoandonov/.local/share/Symbols/src"
-    ]
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Project.ConsoleApp1.executor&quot;: &quot;Run&quot;,
+    &quot;.NET Project.ReverseLinkedList.executor&quot;: &quot;Debug&quot;,
+    &quot;.NET Project.Valid_Sudoku.executor&quot;: &quot;Debug&quot;,
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected=".NET Project.ReverseLinkedList">
+}</component>
+  <component name="RunManager" selected=".NET Project.Valid_Sudoku">
     <configuration name="167.TwoSum2.InputArraySorted" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -246,6 +244,36 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="Valid_Sudoku" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ConsoleApp1/bin/Debug/net6.0" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Valid_Sudoku/Valid_Sudoku.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="net6.0" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue=".NET Project.33.SearchInRotatedSortedArray" />
+      <item itemvalue=".NET Project.167.TwoSum2.InputArraySorted" />
+      <item itemvalue=".NET Project.Valid_Sudoku" />
+      <item itemvalue=".NET Project.FindMinimumInRotatedSortedArray" />
+      <item itemvalue=".NET Project.LongestRepeatingCharacterReplacement" />
+      <item itemvalue=".NET Project.MinStack" />
+      <item itemvalue=".NET Project.ReverseLinkedList" />
+      <item itemvalue=".NET Project.SearchInRotatedSortedArray" />
+      <item itemvalue=".NET Project.ValidParentheses" />
+      <item itemvalue=".NET Project.76.MinimumWindowSubstring" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue=".NET Project.76.MinimumWindowSubstring" />
@@ -270,7 +298,9 @@
       <workItem from="1703088571857" duration="4872000" />
       <workItem from="1706650805283" duration="353000" />
       <workItem from="1706651301720" duration="30000" />
-      <workItem from="1706651344794" duration="5971000" />
+      <workItem from="1706651344794" duration="6269000" />
+      <workItem from="1729842964541" duration="15731000" />
+      <workItem from="1730024630094" duration="2459000" />
     </task>
     <task id="LOCAL-00001" summary="C# Code Git Ignore">
       <option name="closed" value="true" />
@@ -376,13 +406,30 @@
       <option name="project" value="LOCAL" />
       <updated>1703096791364</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="&quot;Implementing a solution for reversing a linked list (#206)&#10;&#10;This commit introduces a solution for the LeetCode problem involving reversing a linked list. The algorithm iterates through the list, reversing the direction of links to achieve the desired outcome. The implementation uses three pointers - 'current,' 'previous,' and 'next' - to traverse and manipulate the linked list efficiently.&quot;">
+      <option name="closed" value="true" />
+      <created>1706658362032</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1706658362032</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Added new project">
+      <option name="closed" value="true" />
+      <created>1706658422047</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1706658422047</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -425,7 +472,9 @@
     <MESSAGE value="vcs" />
     <MESSAGE value="workspace.xml" />
     <MESSAGE value="Alternative Solution for Searching in a rotated sorted array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Alternative Solution for Searching in a rotated sorted array" />
+    <MESSAGE value="&quot;Implementing a solution for reversing a linked list (#206)&#10;&#10;This commit introduces a solution for the LeetCode problem involving reversing a linked list. The algorithm iterates through the list, reversing the direction of links to achieve the desired outcome. The implementation uses three pointers - 'current,' 'previous,' and 'next' - to traverse and manipulate the linked list efficiently.&quot;" />
+    <MESSAGE value="Added new project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new project" />
   </component>
   <component name="XDebuggerManager">
     <pin-to-top-manager>
