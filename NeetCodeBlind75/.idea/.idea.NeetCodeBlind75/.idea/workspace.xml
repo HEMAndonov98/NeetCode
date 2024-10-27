@@ -16,9 +16,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eec0a580-bd47-471c-8003-030d09332216" name="Changes" comment="New NeetCode Project added">
-      <change afterPath="$PROJECT_DIR$/Valid_Sudoku/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Valid_Sudoku/Valid_Sudoku.csproj" afterDir="false" />
+    <list default="true" id="eec0a580-bd47-471c-8003-030d09332216" name="Changes" comment="Valid Sudoku Solved">
+      <change afterPath="$PROJECT_DIR$/Valid_Sudoku/Readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +75,11 @@
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "PLAIN_TEXT"
+    ]
   }
 }]]></component>
   <component name="RunManager" selected=".NET Project.Valid_Sudoku">
@@ -297,7 +301,7 @@
       <workItem from="1706651301720" duration="30000" />
       <workItem from="1706651344794" duration="6269000" />
       <workItem from="1729842964541" duration="15731000" />
-      <workItem from="1730024630094" duration="2763000" />
+      <workItem from="1730024630094" duration="3377000" />
     </task>
     <task id="LOCAL-00001" summary="C# Code Git Ignore">
       <option name="closed" value="true" />
@@ -427,7 +431,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730027439164</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Valid Sudoku Solved">
+      <option name="closed" value="true" />
+      <created>1730027493671</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1730027493671</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -480,7 +492,8 @@
     <MESSAGE value="&quot;Implementing a solution for reversing a linked list (#206)&#10;&#10;This commit introduces a solution for the LeetCode problem involving reversing a linked list. The algorithm iterates through the list, reversing the direction of links to achieve the desired outcome. The implementation uses three pointers - 'current,' 'previous,' and 'next' - to traverse and manipulate the linked list efficiently.&quot;" />
     <MESSAGE value="Added new project" />
     <MESSAGE value="New NeetCode Project added" />
-    <option name="LAST_COMMIT_MESSAGE" value="New NeetCode Project added" />
+    <MESSAGE value="Valid Sudoku Solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="Valid Sudoku Solved" />
   </component>
   <component name="XDebuggerManager">
     <pin-to-top-manager>
