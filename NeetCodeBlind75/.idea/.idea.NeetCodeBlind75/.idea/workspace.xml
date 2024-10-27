@@ -16,12 +16,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eec0a580-bd47-471c-8003-030d09332216" name="Changes" comment="">
+    <list default="true" id="eec0a580-bd47-471c-8003-030d09332216" name="Changes" comment="New NeetCode Project added">
       <change afterPath="$PROJECT_DIR$/Valid_Sudoku/Program.cs" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Valid_Sudoku/Valid_Sudoku.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.NeetCodeBlind75/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.NeetCodeBlind75/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.NeetCodeBlind75/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.NeetCodeBlind75/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NeetCodeBlind75.sln" beforeDir="false" afterPath="$PROJECT_DIR$/NeetCodeBlind75.sln" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,25 +59,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;.NET Project.ConsoleApp1.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.ReverseLinkedList.executor&quot;: &quot;Debug&quot;,
-    &quot;.NET Project.Valid_Sudoku.executor&quot;: &quot;Debug&quot;,
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Project.ConsoleApp1.executor": "Run",
+    ".NET Project.ReverseLinkedList.executor": "Debug",
+    ".NET Project.Valid_Sudoku.executor": "Run",
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected=".NET Project.Valid_Sudoku">
     <configuration name="167.TwoSum2.InputArraySorted" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -300,7 +297,7 @@
       <workItem from="1706651301720" duration="30000" />
       <workItem from="1706651344794" duration="6269000" />
       <workItem from="1729842964541" duration="15731000" />
-      <workItem from="1730024630094" duration="2459000" />
+      <workItem from="1730024630094" duration="2763000" />
     </task>
     <task id="LOCAL-00001" summary="C# Code Git Ignore">
       <option name="closed" value="true" />
@@ -422,7 +419,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706658422047</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="New NeetCode Project added">
+      <option name="closed" value="true" />
+      <created>1730027439163</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1730027439164</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -474,7 +479,8 @@
     <MESSAGE value="Alternative Solution for Searching in a rotated sorted array" />
     <MESSAGE value="&quot;Implementing a solution for reversing a linked list (#206)&#10;&#10;This commit introduces a solution for the LeetCode problem involving reversing a linked list. The algorithm iterates through the list, reversing the direction of links to achieve the desired outcome. The implementation uses three pointers - 'current,' 'previous,' and 'next' - to traverse and manipulate the linked list efficiently.&quot;" />
     <MESSAGE value="Added new project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added new project" />
+    <MESSAGE value="New NeetCode Project added" />
+    <option name="LAST_COMMIT_MESSAGE" value="New NeetCode Project added" />
   </component>
   <component name="XDebuggerManager">
     <pin-to-top-manager>
