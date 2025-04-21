@@ -8,6 +8,7 @@
     <projectFile>76.MinimumWindowSubstring/76.MinimumWindowSubstring.csproj</projectFile>
     <projectFile>ConsoleApp1/ConsoleApp1.csproj</projectFile>
     <projectFile>FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.csproj</projectFile>
+    <projectFile>Generate_Parentheses /Generate_Parentheses.csproj</projectFile>
     <projectFile>LongestRepeatingCharacterReplacement/LongestRepeatingCharacterReplacement.csproj</projectFile>
     <projectFile>MinStack/MinStack.csproj</projectFile>
     <projectFile>ReverseLinkedList/ReverseLinkedList.csproj</projectFile>
@@ -19,11 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eec0a580-bd47-471c-8003-030d09332216" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/15.Evaluate Reverse_Polish_Notation/15.Evaluate Reverse_Polish_Notation.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15.Evaluate Reverse_Polish_Notation/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15.Evaluate Reverse_Polish_Notation/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generate_Parentheses /Generate_Parentheses.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generate_Parentheses /Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.NeetCodeBlind75/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.NeetCodeBlind75/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NeetCodeBlind75.sln" beforeDir="false" afterPath="$PROJECT_DIR$/NeetCodeBlind75.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/global.json" beforeDir="false" afterPath="$PROJECT_DIR$/global.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +50,7 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/c6718098e0f145e793335596db05b23ab58200/3f/3ebb4680/ThrowHelper.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/7987839aef61853dc6589c43e584178ce4d5b791dd8775cb8429847f873a560/Stack.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Valid_Sudoku/Program.cs" root0="FORCE_HIGHLIGHTING" />
@@ -73,6 +75,7 @@
     ".NET Project.15.Evaluate Reverse_Polish_Notation.executor": "Run",
     ".NET Project.150.Trapping_Water.executor": "Run",
     ".NET Project.ConsoleApp1.executor": "Run",
+    ".NET Project.Generate_Parentheses.executor": "Run",
     ".NET Project.ReverseLinkedList.executor": "Debug",
     ".NET Project.Valid_Sudoku.executor": "Run",
     "ASKED_ADD_EXTERNAL_FILES": "true",
@@ -94,7 +97,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected=".NET Project.15.Evaluate Reverse_Polish_Notation">
+  <component name="RunManager" selected=".NET Project.Generate_Parentheses">
     <configuration name="150.Trapping_Water" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -194,6 +197,24 @@
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="Generate_Parentheses" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Generate_Parentheses /Generate_Parentheses.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -312,6 +333,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue=".NET Project.Generate_Parentheses" />
       <item itemvalue=".NET Project.15.Evaluate Reverse_Polish_Notation" />
       <item itemvalue=".NET Project.150.Trapping_Water" />
       <item itemvalue=".NET Project.33.SearchInRotatedSortedArray" />
@@ -354,7 +376,8 @@
       <workItem from="1730024630094" duration="3613000" />
       <workItem from="1730039088303" duration="2940000" />
       <workItem from="1730049129173" duration="4613000" />
-      <workItem from="1730565042929" duration="1725000" />
+      <workItem from="1730565042929" duration="2064000" />
+      <workItem from="1731343299261" duration="3082000" />
     </task>
     <task id="LOCAL-00001" summary="C# Code Git Ignore">
       <option name="closed" value="true" />
@@ -508,7 +531,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730053745418</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="LeetCode problem 15 solved">
+      <option name="closed" value="true" />
+      <created>1730567101688</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1730567101688</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -564,9 +595,27 @@
     <MESSAGE value="Valid Sudoku Solved" />
     <MESSAGE value="Added explination for the solution to problem 150.Valid Sudoku" />
     <MESSAGE value="Leet code problem 150.Trapping Rain Water solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leet code problem 150.Trapping Rain Water solved" />
+    <MESSAGE value="LeetCode problem 15 solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="LeetCode problem 15 solved" />
   </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Generate_Parentheses /Program.cs</url>
+          <line>18</line>
+          <properties documentPath="$PROJECT_DIR$/Generate_Parentheses /Program.cs" containingFunctionPresentation="Local function 'Backtrack'">
+            <startOffsets>
+              <option value="478" />
+            </startOffsets>
+            <endOffsets>
+              <option value="479" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
     <pin-to-top-manager>
       <pinned-members>
         <PinnedItemInfo parentTag="Frame#Solution.ReverseList" memberName="newCurrentNode" />
@@ -577,7 +626,7 @@
     <watches-manager>
       <configuration name="DotNetProject">
         <watch expression="r" />
-        <watch expression="l" />
+        <watch expression="l" language="C#" />
         <watch expression="m" />
       </configuration>
     </watches-manager>
