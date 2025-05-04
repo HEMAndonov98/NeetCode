@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeTwoSortedLinkedLists",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListCycle", "LinkedListCycle\LinkedListCycle.csproj", "{F2518DF7-6E1B-458C-B8B2-876A5DDB15ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReorderSinglyLinkedList", "ReorderSinglyLinkedList\ReorderSinglyLinkedList.csproj", "{1AF09F95-A180-494C-BC0B-D66A838DA226}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskMaster", "TaskMaster\TaskMaster.csproj", "{29CB67C4-90A4-4D12-9752-EBBCAC792458}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,13 @@ Global
 		{F2518DF7-6E1B-458C-B8B2-876A5DDB15ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2518DF7-6E1B-458C-B8B2-876A5DDB15ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2518DF7-6E1B-458C-B8B2-876A5DDB15ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AF09F95-A180-494C-BC0B-D66A838DA226}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AF09F95-A180-494C-BC0B-D66A838DA226}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AF09F95-A180-494C-BC0B-D66A838DA226}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AF09F95-A180-494C-BC0B-D66A838DA226}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29CB67C4-90A4-4D12-9752-EBBCAC792458}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29CB67C4-90A4-4D12-9752-EBBCAC792458}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29CB67C4-90A4-4D12-9752-EBBCAC792458}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29CB67C4-90A4-4D12-9752-EBBCAC792458}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
