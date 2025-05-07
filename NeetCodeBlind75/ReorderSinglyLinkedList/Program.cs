@@ -25,8 +25,8 @@ public class Solution
         }
 
         // Reverse second half of list
-        ListNode? prev = null;
-        ListNode? curr = slow;
+        ListNode? curr = slow.next;
+        ListNode? prev = slow.next = null;
 
         while (curr != null)
         {
@@ -53,7 +53,6 @@ public class Solution
             second = temp2;
         }
 
-        first.next = null;
     }
 }
 
@@ -62,7 +61,7 @@ public class Program
     public static void Main(string[] args)
     {
         // Create the linked list 2 -> 4 -> 6 -> 8
-        ListNode head = new ListNode(2, new ListNode(4, new ListNode(6, new ListNode(8, new ListNode(10)))));
+        ListNode head = new ListNode(2, new ListNode(4, new ListNode(6, new ListNode(8))));
 
         // Print the original list
         Console.WriteLine("Original List:");
